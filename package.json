@@ -1,0 +1,15 @@
+{
+  "name": "assingment",
+  "version": "1.0.0",
+  "description": "2.7 assignment",
+  "main": "assignment.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Woody Umstead",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "1.7.0"
+  }
+}
